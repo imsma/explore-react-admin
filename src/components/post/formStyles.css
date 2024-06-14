@@ -1,0 +1,12 @@
+.fullWidthInput {
+  width: 100%;
+}
+
+.customFormInput {
+  margin: 10px 0;
+  padding: 8px;
+}
+
+.customFormGrid {
+  padding: 20px;
+}
